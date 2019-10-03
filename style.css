@@ -1,4 +1,5 @@
 .btn {
     color: #cf2222;
     line-height: 30px;
+    list-style: lower-alpha;
 }
